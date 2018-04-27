@@ -1,3 +1,6 @@
-﻿  wykobi_demo_dot_net.cpp
-wykobi_demo_dot_net.cpp(34): error C2653: 'Applications': is not a class or namespace name
-wykobi_demo_dot_net.cpp(34): error C3861: 'Run': identifier not found
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  wykobi_demo_dot_net.cpp
+  Generating Code...
+  wykobi_demo_dot_net.vcxproj -> D:\JoseVicente\pedroWykobiGitHun\WyKobi\Debug\wykobi_demo_dot_net.exe
+  wykobi_demo_dot_net.vcxproj -> D:\JoseVicente\pedroWykobiGitHun\WyKobi\Debug\wykobi_demo_dot_net.pdb (Full PDB)
