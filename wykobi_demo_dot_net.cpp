@@ -31,6 +31,6 @@ int main(array<System::String ^> ^/*args*/)
    Application::SetCompatibleTextRenderingDefault(false);
 
    // Create the main window and run it
-   Application::Run(gcnew WykobiGUIForm());
+   Applications::Run(gcnew WykobiGUIForm());
    return 0;
 }
